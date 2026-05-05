@@ -1,12 +1,13 @@
+# How to print the text in Python 
 print("Hello, World!")
-
+# If condition in Python
 if 5 > 2:
     print("Five is greater than two!")
-
+# If-else condition in Python
 if 6 < 5:
     print("Six is greater than five!")
 else:   print("Six is not greater than five!")
-
+# Initialize multiple variables in one line
 x, y, z = "Orange", "Banana", "Cherry"
 
 print(x)
