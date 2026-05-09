@@ -1,5 +1,9 @@
 # How to print the text in Python 
 print("Hello, World!")
+print(5,6)
+print(f"5 and 6")
+print("India", "is", "my", "country",end=" ")
+print("India", "is", "my", "country", sep="/")
 # If condition in Python
 if 5 > 2:
     print("Five is greater than two!")
